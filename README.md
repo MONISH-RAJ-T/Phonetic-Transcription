@@ -21,7 +21,7 @@ The Phonetic Transcription Tool converts text input into its corresponding Inter
 - `spa-Latn` (Spanish - Latin script)
 - Other language codes may be supported depending on the backend.
 
-## Screenshot
+## output image
 ![Phonetic Transcription Tool](PhoneticTranscriptionop.png)
 
 ## Troubleshooting
