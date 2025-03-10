@@ -22,7 +22,7 @@ The Phonetic Transcription Tool converts text input into its corresponding Inter
 - Other language codes may be supported depending on the backend.
 
 ## Screenshot
-![Phonetic Transcription Tool](Phonetic Transcription op.png)
+![Phonetic Transcription Tool]()
 
 ## Troubleshooting
 ### Error: "list index out of range"
@@ -41,7 +41,7 @@ Ensure you have the following installed:
 ### Installation Steps
 1. Clone the repository:
    ```sh
-   git clone  https://github.com/MONISH-RAJ-T/Phonetic-Transcription.git 
+   git clone https://github.com/your-repo/phonetic-transcription-tool.git
    cd phonetic-transcription-tool
    ```
 2. Install required dependencies:
