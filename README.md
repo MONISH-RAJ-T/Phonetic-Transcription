@@ -41,7 +41,7 @@ Ensure you have the following installed:
 ### Installation Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/phonetic-transcription-tool.git
+   git clone  https://github.com/MONISH-RAJ-T/Phonetic-Transcription.git 
    cd phonetic-transcription-tool
    ```
 2. Install required dependencies:
