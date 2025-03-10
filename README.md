@@ -22,7 +22,7 @@ The Phonetic Transcription Tool converts text input into its corresponding Inter
 - Other language codes may be supported depending on the backend.
 
 ## Screenshot
-![Phonetic Transcription Tool](Phonetic Transcription op.png)
+![Phonetic Transcription Tool](PhoneticTranscriptionop.png)
 
 ## Troubleshooting
 ### Error: "list index out of range"
